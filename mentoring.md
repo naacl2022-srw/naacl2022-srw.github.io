@@ -12,7 +12,7 @@ Students wishing to participate must submit the paper by __December 11, 2020__ v
 
 - A copy of the paper (PDF format, anonymized)
 - E-mail addresses of all authors (for correspondence)
-- Author keywords and the area of the research (see [here](http://naacl2021.org/calls/papers/) for relevant topics and areas)
+- Author keywords and the area of the research (see [here](https://2021.naacl.org/calls/papers/) for relevant topics and areas)
 - Any specific questions for mentors or expected types of feedback
 
 Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for formality of the paper including formatting before we match mentors.
