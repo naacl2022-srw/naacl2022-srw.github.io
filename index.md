@@ -30,14 +30,15 @@ Similar to past SRWs, NAACL 2021 SRW has two submission options archival (appear
 # Anti-Harassment Policy
 The NAACL Student Research Workshop 2021 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [acl@aclweb.org Priscilla Rasmussen] if you face any harassment or hostile behavior.
 
-# Sponsored By       
+
+<!-- # Sponsored By        -->
 <!-- ![Computing Research Association’s Computing Community Consortium (CCC)](images/ccc_hz copy.jpg)
 ![National Science Foundation](images/NSF_4-Color_bitmap_Logo.png =250x)
  -->
-<img src="images/ccc_hz copy.jpg" alt="Computing Research Association’s Computing Community Consortium (CCC)" width="300"/>
+<!-- <img src="images/ccc_hz copy.jpg" alt="Computing Research Association’s Computing Community Consortium (CCC)" width="300"/>
 <img src="images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation" width="200"/>
 <img src="images/nrc_canada_logo.png" alt="National Research Council, Canada" width="250" style="padding: 0 0 0 40px"/>
-<img src="images/google_logo.svg" alt="Google" width="250" style="padding: 0 0 0 40px"/>
+<img src="images/google_logo.svg" alt="Google" width="250" style="padding: 0 0 0 40px"/> -->
 
 
 
