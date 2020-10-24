@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  
+  {% include head.html %}
+
+  <body>
+    {% include page-header.html %}
+
+    {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %}
+      {% capture presubmen %}{{'Jan 11 2019' | date: '%s'}}{% endcapture %}
+      {% capture sub %}{{'Feb 15 2019' | date: '%s'}}{% endcapture %}
+      {% capture not %}{{'Mar 15 2019' | date: '%s'}}{% endcapture %}
+      {% capture cam %}{{'Apr 3 2019' | date: '%s'}}{% endcapture %}
+
+
+    <section class="main-content">
+      <div id="side-table-wrapper" style="float:right; width:310px; font-size: small">
+        <h4 id="side-table-header">Important Dates</h4>
+        <table id="important-dates" class="table table-condensed">
+          <tbody>
+            <tr><td>Pre-submission mentorship application</td>
+              <td>
+                {% assign datediff = presubmen | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if presubmen < nowdate %} <strike> <font color="grey">{% endif %}
+                {% if datediff < 30 and datediff > -1 %} <font color="red"> {% endif %}
+                {{ presubmen | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+            <tr><td>Submission deadline</td>
+              <td>
+              
+                {% if sub < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = sub | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ sub | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+            <tr><td>Acceptance notification</td>
+              <td>
+                {% if not < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = not | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ not | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+            <tr><td>Camera-ready due</td>
+              <td>
+                {% if cam < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = cam | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 13  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ cam | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+            <tr><td>Workshop</td>
+              <td>June 3-5 (With Main Conference)</td>
+            </tr>
+            <tr></tr>
+            <tr>
+              <!-- <p align="center"><small>* <em>All deadlines are <a href="https://www.timeanddate.com/time/zones/aoe">AoE</a><mark>11:59PM (GMT-12)</mark>.</em></small></p> -->
+              <p align="center"><small>* <em>All deadlines are calculated at 11:59 pm <br> UTC-12 hours</em></small></p>
+            </tr>
+          </tbody></table>
+          </font><br>
+
+        <!-- <h4 id="side-table-header">SRW is sponsored by</h4> -->
+
+        <!-- <table id="sponsors" class="table table-condensed">
+          <tbody>
+            <tr><td>
+              <a href="https://cra.org/ccc/" target="blank">
+                <img src="{{ site.baseurl }}/images/ccc_vt.png" alt="Computing Community Consortium">
+              </a>
+            <tr><td>
+              <a href="https://www.nsf.gov/" target="blank">
+                <img src="{{ site.baseurl }}/images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation">
+              </a>
+            </td></tr>
+          </tbody>
+        </table> -->
+
+      </div>
+      <!-- ===================================== -->
+      {{ content }}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
+</html>
