@@ -28,7 +28,7 @@ Get connected with us via [Facebook](https://www.facebook.com/naaclsrw2021) and 
 Similar to past SRWs, NAACL 2021 SRW has two submission options archival (appear in proceedings), and non-archival (only for presentation). Authors can elect for both research papers and thesis proposals to be non-archival, in order to more explicitly encourage work in progress which can later be submitted to a future (archival) conference. These papers are otherwise treated the same as archival papers from a mentorship and reviewing standpoint. More details in the call for papers.
 
 # Anti-Harassment Policy
-The NAACL Student Research Workshop 2021 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](acl@aclweb.org) if you face any harassment or hostile behavior.
+The NAACL Student Research Workshop 2021 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [acl@aclweb.org Priscilla Rasmussen] if you face any harassment or hostile behavior.
 
 # Sponsored By       
 <!-- ![Computing Research Association’s Computing Community Consortium (CCC)](images/ccc_hz copy.jpg)
