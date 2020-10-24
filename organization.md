@@ -17,7 +17,9 @@ order : 1
 
 ### Program Committee
 - TBD
-<!-- Aaron Jaech (Facebook)
+
+<!-- 
+- Aaron Jaech (Facebook)
 - Adina Williams (Facebook)
 - Ahmed Elgohary (University of Maryland, College Park)
 - Aishwarya Padmakumar (University of Texas at Austin)
@@ -77,4 +79,5 @@ order : 1
 - Volkan Cirik (Carnegie Mellon University)
 - Yang Liu (Liulishuo)
 - Yasumasa Onoe (University of Texas at Austin)
-- Youxuan Jiang (University of Michigan - Ann Arbor) -->
+- Youxuan Jiang (University of Michigan - Ann Arbor) 
+-->
