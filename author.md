@@ -65,11 +65,19 @@ Papers should not refer, for further detail, to documents, code or data resource
 Authors are required to honour the ethical code set out in the ACM Code of Ethics. The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work
 
 ## Reproducibility Criteria
+
 During the submission process, authors will be asked to answer the questions from the Reproducibility Checklist. The checklist is intended as a reminder to help the authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. However, the answers will be made available to the reviewers. Reviewers will be asked to assess the reproducibility of the work as part of their reviews. The updated checklist will be made available on the conference website, see previous versions in [Dodge et al, 2019](https://arxiv.org/pdf/1909.03004.pdf) and [Joelle Pineau’s reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
 
 
 ## Follow style and format guidelines
-Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official NAACL-HLT 2021 style templates, available (soon) on the conference website. All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.
+
+Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. All papers consist of up to five (5) pages of content, plus unlimited references. References do not count against these limits. Supplementary materials are not allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer’s comments in their final versions. We strongly recommend the use of the official NAACL-HLT 2021 style templates, available on the conference website. All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.
+
+The paper templates are now available as an [Overleaf template](https://www.overleaf.com/latex/templates/naacl-hlt-2021-latex-template/kvjhhyjsvmxf) and can also be downloaded directly [LaTeX](https://2021.naacl.org/downloads/naacl2021-latex.zip),[Word](https://2021.naacl.org/downloads/naacl2021.docx).
+
+Please follow the formatting documentation general to ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file). Notice the notable changes in the template (by Matt Post and David Chaing) [here](https://2021.naacl.org/calls/style-and-formatting/).
+
+
 
 <!-- 
 
