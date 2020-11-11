@@ -4,10 +4,10 @@ title: "Frequently Asked Questions"
 permalink: /faq
 order : 1
 ---
-### Q: Can I submit my non-archival accepted paper in other venues?
+#### Q: Can I submit my non-archival accepted paper in other venues?
 __A:__ Yes.
 
-### Q: In case the student author is unable to attend due to university examinations, is it possible for the equally contributing other author to apply for the travel grant? 
+#### Q: In case the student author is unable to attend due to university examinations, is it possible for the equally contributing other author to apply for the travel grant? 
 __A:__ Yes.
 
 #### Q: Can I submit supplemental materials?
