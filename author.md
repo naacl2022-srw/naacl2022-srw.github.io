@@ -92,5 +92,5 @@ __All submissions must be in PDF format.__
 
 ## Paper Submission
 
-Submission is electronic, using the Softconf START conference management.
+Submission is electronic, using the Softconf START conference management. The submission site is now available at [https://www.softconf.com/naacl2021/SRW/](https://www.softconf.com/naacl2021/SRW/).
 
