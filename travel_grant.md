@@ -8,6 +8,6 @@ order : 1
 We expect to have grants to offset some portion of the students’ conference registration, travel and accommodation expenses. Further details will be posted in the SRW website.
 
 ## Contact Information
-The co-chairs of the workshop can be contacted by email at: naacl2021-srw@googlegroups.com.
+The co-chairs of the workshop can be contacted by email at [naacl2021-srw@googlegroups.com](mailat:naacl2021-srw@googlegroups.com).
 
 
