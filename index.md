@@ -16,7 +16,7 @@ The NAACL Student Research Workshop (SRW) 2021 will be held in conjunction with 
 <br>
 _**Happy faces during the SRW Social in Minneapolis, Minnesota**_ -->
 
-Contact us via [Google Group](https://groups.google.com/forum/#!forum/naacl2021-srw@googlegroups.com) for any questions.
+Contact us via [email](naacl2021-srw@googlegroups.com) for any questions.
 Get connected with us via [Facebook](https://www.facebook.com/naaclsrw2021) and [Twitter](https://twitter.com/naacl_srw).
 
 <!-- We will update this site when latest information are available. -->
