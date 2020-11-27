@@ -16,6 +16,7 @@ __A:__ We do not allow any supplemental appendices, and the paper should stand a
 #### Q: Where should I submit for pre-submission mentoring?
 __A:__ You may e-mail __naacl2021-srw@googlegroups.com__ with the follow information:
 
+* E-mail subject: Pre-submission mentorship paper
 * A copy of the paper (PDF format, anonymized)
 * E-mail addresses of all authors (for correspondence)
 * Author keywords and the area of the research (see here for relevant topics and areas)
