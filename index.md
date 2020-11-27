@@ -8,7 +8,7 @@ order: 1
 
 
 # Welcome to NAACL SRW 2021
-The NAACL Student Research Workshop (SRW) 2021 will be held in conjunction with [NAACL HLT 2021](https://2021.naacl.org/) in Minneapolis, USA. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
+The NAACL Student Research Workshop (SRW) 2021 will be held in conjunction with [NAACL HLT 2021](https://2021.naacl.org/) in Mexico City, Mexico. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
 <!-- ### Please find the accepted archival papers [here.](https://www.aclweb.org/anthology/events/naacl-2019/#n19-3) -->
 
