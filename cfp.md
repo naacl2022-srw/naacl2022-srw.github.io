@@ -25,7 +25,8 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 ## Important Dates
 - Submission for mentoring deadline: December 11, 2020.
 - Papers submission deadline: February 12, 2021.
-- Acceptance notification deadline: March 19, 2021.
+- Reviews due: March 12th, 2021.
+- Acceptance notification: March 19, 2021.
 - Camera-ready papers due: April 16, 2021.
 
 
