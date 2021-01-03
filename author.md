@@ -21,13 +21,6 @@ Papers that have been or will be submitted to other venues must indicate this at
 
 Authors submitting more than one paper to NAACL-HLT 2021 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single NAACL-HLT 2021 track (Research, Industry, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
 
-## Pre-publication
-The anonymity period for NAACL-HLT 2021 start form from October 23, 2020 - March 10, 2021.
-
-You may not make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period.
-
-You may not update the non-anonymized version during the anonymity period, and we ask you not to advertise it on social media or take other actions that would further compromise double-blind reviewing during the anonymity period.
-
 ## Double blind review
 
 Double blind review is a form of peer review in which the identities of authors are not provided to reviewers, and the identities of reviewers are not provided to authors. To facilitate double blind review, submissions must not identify authors or their affiliations. For example, self-references that reveal the author’s identity, e.g., “We previously showed (Smith, 1991) …” must be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …”.
