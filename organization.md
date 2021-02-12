@@ -15,6 +15,36 @@ order : 1
 - [Nanyun Peng](https://vnpeng.net/), University of California, Los Angeles, USA
 - [Yu Su](https://ysu1989.github.io/), Ohio State University, USA
 
+### Pre-submission Mentors
+- Mohit Bansal - UNC Chapel Hill
+- Valerio Basile - University of Turin
+- Eduardo Blanco - University of North Texas
+- Dallas Card - Stanford
+- Kai-Wei Chang - UCLA
+- Eunsol Choi - University of Texas, Austin
+- Lucia Donatelli - Saarland University
+- Greg Durrett - University of Texas, Austin
+- Yansong Feng - Peking University
+- Matt Gardner - AI2
+- Luke Holman - University of North Texas
+- Robin Jia - Facebook AI Research / USC
+- Debanjan Mahata - Bloomberg
+- Vincent Ng - University of Texas, Dallas
+- Barbara Plank - IT University of Copenhagen
+- Sai Krishna Rallabandi - Carnegie Mellon University
+- Melissa Roemmele - SDL
+- Masoud Rouhizadeh - Johns Hopkins University
+- Sebastian Ruder - DeepMind
+- Roy Schwartz - Hebrew University of Jerusalem
+- Vered Shwartz - AI2
+- Maneesh Singh - Verisk Inc.
+- Amanda Stent - Bloomberg
+- Swabha Swayamdipta - AI2
+- Jesse Thomason - Amazon / USC
+- Aline Villavicencio - Federal University of Rio Grande do Sul
+- Bonnie Webber - University of Edinburgh
+- Arkaitz Zubiaga - Queen Mary University of London
+
 ### Program Committee
 - TBD
 
