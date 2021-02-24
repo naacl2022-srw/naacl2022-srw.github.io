@@ -46,68 +46,217 @@ order : 1
 - Arkaitz Zubiaga - Queen Mary University of London
 
 ### Program Committee
-- TBD
-
-<!-- 
-- Aaron Jaech (Facebook)
-- Adina Williams (Facebook)
-- Ahmed Elgohary (University of Maryland, College Park)
-- Aishwarya Padmakumar (University of Texas at Austin)
-- Akshay Srivatsan (Carnegie Mellon University)
-- Alane Suhr (Cornell University)
-- Alvin Grissom II (Ursinus College)
-- Amita Misra (University of California,Santa Cruz)
-- Angela Shih Lin (The University of Texas at Austin)
-- Antonios Anastasopoulos (University of Notre Dame)
-- Bharat Ram Ambati (Apple Inc.)
-- Daniel Khashahabi (University of Pennsylvania)
-- David Gaddy (University of California, Berkeley)
-- Denis Newman-Griffis (The Ohio State University)
-- Dirk Hovy (Bocconi University)
-- Eric Holgate (Univeristy of Texas at Austin)
-- Fan Yang (University of Houston)
-- Farig Sadeque (University of Arizona)
-- Gerald Penn (University of Toronto)
-- Gustavo Aguilar (University of Houston)
-- Hady Elsahar (Université de Lyon)
-- Jasy Suet Yan Liew (Universiti Sains Malaysia)
-- Jeniya Tabassum (The Ohio State University)
-- Ji He (University of Washington)
-- Jiacheng Xu (University of Texas at Austin)
-- Jifan Chen (Univeristy of Texas at Austin)
-- John Wieting (Carnegie Mellon University)
-- Jonathan Kummerfeld (University of Michigan)
-- Junyi Jessy Li (University of Texas at Austin)
-- Katrin Erk (The University of Texas at Austin)
-- Kenton Murray (University of Notre Dame)
-- Kevin Gimpel (Toyota Technological Institute at Chicago)
-- Kevin Lybarger (University of Washington)
-- Kevin Small (Amazon)
-- Labiba Jahan (Florida International University)
-- Mari Ostendorf (University of Washington)
-- Maria Antoniak (Cornell University)
-- Marie-Catherine de Marneffe (Ohio State University)
-- Maarten Sap (University of Washington)
-- Micha Elsner (Ohio State University)
-- Mohammad Sadegh Rasooli (Facebook)
-- Mohit Bansal (University of North Carolina Chapel Hill)
-- Niloofar Safi Samghabadi (University of Houston)
-- Philipp Koehn (Johns Hopkins University)
-- Rachel Bawden (Université Paris-Sud)
-- Ramon Ziai (University of Tübingen)
-- Saadia Gabriel (University of Washington)
-- Saif Mohammad (National Research Council Canada)
-- Sandeep Soni (Georgia Institute of Technology)
-- Sheena Panthaplackel (University of Texas at Austin)
-- Sowmya Vajjala (Iowa State University)
-- Sudha Rao (University Of Maryland, College Park)
-- Suraj Maharjan (Capital One)
-- Swapna Somasundaran (Educational Testing Service)
-- Trang Tran (University of Washington)
-- Verónica Pérez-Rosas (University of Michigan)
-- Victoria (Vicky) Zayats (University of Washington)
-- Volkan Cirik (Carnegie Mellon University)
-- Yang Liu (Liulishuo)
-- Yasumasa Onoe (University of Texas at Austin)
-- Youxuan Jiang (University of Michigan - Ann Arbor) 
--->
+- Piush Aggarwal
+- Afroz Ahamad
+- Chaitanya Ahuja
+- Youssef Al Hariri
+- Abeer AL-Dayel
+- Sedeeq Al-khazraji
+- Miguel A. Alonso
+- Rami Aly
+- Bharat Ram Ambati
+- Calude Andreea
+- Maria Antoniak
+- Kristjan Arumae
+- Ehsaneddin Asgari
+- Vidhisha Balachandran
+- Anusha Balakrishnan
+- Loïc Barrault
+- Valerio Basile
+- Roberto Basili
+- Rachel Bawden
+- Eduardo Blanco
+- Bernd Bohnet
+- Rishi Bommasani
+- Chris Brew
+- Marine Carpuat
+- Arlene Casey
+- Arun Chaganty
+- lisa andreevna chalaguine
+- Jonathan P. Chang
+- Aditi Chaudhary
+- Liwei Chen
+- Mingda Chen
+- Xinchi Chen
+- Jifan Chen
+- Leshem Choshen
+- Siddharth Dalmia
+- Samvit Dammalapati
+- Alok Debnath
+- Louise Deléger
+- Chris Develder
+- Flavio Di Palo
+- Anne Dirkson
+- Radina Dobreva
+- Zi-Yi Dou
+- Micha Elsner
+- Denis Emelin
+- Carlos Escolano
+- Tina Fang
+- Murhaf Fares
+- Amir Feder
+- Yansong Feng
+- Jared Fernandez
+- Dayne Freitag
+- Yoshinari Fujinuma
+- Saadia Gabriel
+- David Gaddy
+- Diana Galvan-Sosa
+- Marcos Garcia
+- Matt Gardner
+- Tirthankar Ghosal
+- Dan Goldwasser
+- Sarah Gupta
+- Abhinav Gupta
+- Vivek Gupta
+- Hardy Hardy
+- Mareike Hartmann
+- Junxian He
+- Barbora Hladka
+- Christopher Homan
+- saghar Hosseini
+- Mohammad Javad Hosseini
+- Nina Hosseini-Kivanani
+- Phu Mon Htut
+- Junjie Hu
+- Jeff Jacobs
+- Aaron Jaech
+- Glorianna Jagfeld
+- Labiba Jahan
+- Jyoti Jha
+- Zhengbao Jiang
+- Chen Junjie
+- Jad Kabbara
+- Tomoyuki Kajiwara
+- Ehsan Kamalloo
+- Zara Kancheva
+- Sudipta Kar
+- Alina Karakanta
+- Philipp Koehn
+- Noriyuki Kojima
+- Taiwo Kolajo
+- Mamoru Komachi
+- Parisa Kordjamshidi
+- Mandy Korpusik
+- Kalpesh Krishna
+- Jonathan K. Kummerfeld
+- Kemal Kurniawan
+- Yash Kumar Lal
+- Ian Lane
+- Alexandra Lavrentovich
+- Bowen Li
+- Yiyuan Li
+- Lei Li
+- Tao Li
+- Xiang Lorraine Li
+- Junwei Liang
+- Jasy Suet Yan Liew
+- Kevin Lin
+- Kevin Lin
+- Fangyu Liu
+- Di Lu
+- Debanjan Mahata
+- Shervin Malmasi
+- Valentin Malykh
+- Emma Manning
+- Pedro Henrique Martins
+- Bruno Martins
+- Puneet Mathur
+- Dheeraj Mekala
+- Omid Memarrast
+- Rui Meng
+- Antonio Valerio Miceli Barone
+- Sabrina J. Mielke
+- Zulfat Miftahutdinov
+- Tsvetomila Mihaylova
+- Farjana Sultana Mim
+- Sewon Min
+- Koji Mineshima
+- Swaroop Mishra
+- Rohan Mishra
+- Amita Misra
+- Jesse Mu
+- Nora Muheim
+- Masaaki Nagata
+- Aakanksha Naik
+- Nihal V. Nayak
+- Dat Quoc Nguyen
+- Vincent Nguyen
+- Shinji Nishimoto
+- Pegah Nokhiz
+- Yasumasa Onoe
+- Naoki Otani
+- Mitra Pabitra
+- Endang Wahyu Pamungkas
+- Isabel Papadimitriou
+- Ashwin Paranjape
+- Thiago Pardo
+- Chan Young Park
+- Roma Patel
+- Archita Pathak
+- Viviana Patti
+- Siyao Peng
+- Hai Pham
+- Adithya Pratapa
+- Yusu Qian
+- Ivaylo Radev
+- Sree Harsha Ramesh
+- Surangika Ranathunga
+- Vikas Raunak
+- Paul Rayson
+- Kirk Roberts
+- Alexander Robertson
+- Guy Rotman
+- Maria Ryskina
+- sepideh sadeghi
+- Younes Samih
+- Jainisha Sankhavara
+- Ryohei Sasano
+- Carolina Scarton
+- Michael Sejr Schlichtkrull
+- Sebastian Schuster
+- Giovanni Semeraro
+- Olga Seminck
+- Indira Sen
+- Gautam Kishore Shahi
+- Sina Sheikholeslami
+- Manish Shrivastava
+- A.B. Siddique
+- Sonit Singh
+- Kushagra Singh
+- Pradyumna Sinha
+- Sunayana Sitaram
+- Sergey Smetanin
+- Katira Soleymanzadeh
+- Thamar Solorio
+- Richard Sproat
+- Tejas Srinivasan
+- Marija Stanojevic
+- Alane Suhr
+- Jeniya Tabassum
+- Shabnam Tafreshi
+- Uthayasanker Thayasivam
+- Nicholas Tomlin
+- Trang Tran
+- Sowmya Vajjala
+- Alakananda Vempala
+- Aline Villavicencio
+- Rob Voigt
+- Teodora Vukovic
+- Ivan Vulić
+- Eric Wallace
+- Bonnie Webber
+- John Wieting
+- Adina Williams
+- Steven Wilson
+- Patrick Xia
+- Yumo Xu
+- Rongtian Ye
+- Da Yin
+- Michael Yoder
+- Xiaodong Yu
+- Meishan Zhang
+- Tianyi Zhang
+- Yanpeng Zhao
+- Arkaitz Zubiaga
+- Talha Çolakoğlu
