@@ -64,7 +64,6 @@ order : 1
 - Roberto Basili
 - Rachel Bawden
 - Eduardo Blanco
-- Bernd Bohnet
 - Rishi Bommasani
 - Marine Carpuat
 - Arlene Casey
@@ -173,7 +172,6 @@ order : 1
 - Naoki Otani
 - Endang Wahyu Pamungkas
 - Isabel Papadimitriou
-- Ashwin Paranjape
 - Thiago Pardo
 - Chan Young Park
 - Roma Patel
@@ -218,7 +216,6 @@ order : 1
 - Trang Tran
 - Sowmya Vajjala
 - Alakananda Vempala
-- Aline Villavicencio
 - Rob Voigt
 - Teodora Vukovic
 - Eric Wallace
