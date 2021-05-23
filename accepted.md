@@ -44,7 +44,7 @@ order : 1
 * __Towards Layered Events and Schema Representations in Long Documents__
 >_Hans Ole Hatzel and Chris Biemann_
 
-* __Parallel Text Alignment and Monolingual Parallel Corpus Creation from Philosophical Texts for Text Simplification__*
+* __Parallel Text Alignment and Monolingual Parallel Corpus Creation from Philosophical Texts for Text Simplification__
 >_Stefan Paun_
 
 * __Exploration and Discovery of the COVID-19 Literature through Semantic Visualization__
