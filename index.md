@@ -6,6 +6,8 @@ order: 1
 ---
 
 ### Annoucment
+List of [Accepted Paper](https://naacl2021-srw.github.io/accepted) is live now
+
 [Registration](https://2021.naacl.org/registration/) for the Virtual NAACL 2021 Conference is now open!
 Early registration deadline: Thursday, May 20, 2021, 11:59 PM (EDT). More details on [NAACL 2021](https://2021.naacl.org/)  
 
