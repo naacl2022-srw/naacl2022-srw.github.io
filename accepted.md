@@ -9,6 +9,7 @@ order : 1
 
 ### List of all the accepted papers
 
+
 * __Seed Word Selection for Weakly-Supervised Text Classification with Unsupervised Error Estimation__
 >_Yiping Jin, Akshay Bhatia and Dittaya Wanvarie_
 
