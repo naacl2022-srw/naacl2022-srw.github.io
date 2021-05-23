@@ -5,6 +5,10 @@ permalink: /accepted
 order : 1
 ---
 
+Proceedings for archival papers can be accessed [here.](https://aclanthology.org/volumes/2021.naacl-srw/)
+
+List of all the accepted papers
+
 * __Seed Word Selection for Weakly-Supervised Text Classification with Unsupervised Error Estimation__
 >_Yiping Jin, Akshay Bhatia and Dittaya Wanvarie_
 
