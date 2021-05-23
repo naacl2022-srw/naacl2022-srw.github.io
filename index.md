@@ -5,7 +5,7 @@ permalink: /
 order: 1
 ---
 
-### Annoucment
+### Annoucement
 List of [Accepted Paper](https://naacl2021-srw.github.io/accepted) is live now
 
 [Registration](https://2021.naacl.org/registration/) for the Virtual NAACL 2021 Conference is now open!
