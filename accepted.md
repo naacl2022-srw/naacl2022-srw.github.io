@@ -5,27 +5,73 @@ permalink: /accepted
 order : 1
 ---
 
-TBD
+* __Seed Word Selection for Weakly-Supervised Text Classification with Unsupervised Error Estimation__
+>_Yiping Jin, Akshay Bhatia and Dittaya Wanvarie_
 
-<!-- * __A bag-of-concepts model improves relation extraction in a narrow knowledge domain with limited data__
->_Jiyu Chen, Karin Verspoor and Zenan Zhai_
+* __Multi-Task Learning of Generation and Classification for Emotion-Aware Dialogue Response Generation__
+>_Tatsuya Ide and Daisuke Kawahara_
 
-* __The Strength of the Weakest Supervision: Topic Classification Using Class Labels__
->_Jiatong Li, Kai Zheng, Hua Xu, Qiaozhu Mei and Yue Wang_
+* __Comparison of Grammatical Error Correction Using Back-Translation Models__
+>_Aomi Koyama, Kengo Hotate, Masahiro Kaneko and Mamoru Komachi_
 
-* __A Pregroup Representation of Word Order Alternation Using Hindi Syntax__
->_Alok Debnath and Manish Shrivastava_
+* __Parallel sentences mining with transfer learning in an unsupervised setting__
+>_Yu Sun, Shaolin Zhu, Feng Yifan and Chenggang Mi_
 
-* __Generating Text through Adversarial Training using Skip-Thought Vectors__
->_Afroz Ahamad_
+* __Sentence Concatenation Approach to Data Augmentation for Neural Machine Translation__
+>_Seiichiro Kondo, Kengo Hotate, Tosho Hirasawa, Masahiro Kaneko and Mamoru Komachi_
 
-* __SEDTWik: Segmentation-based Event Detection from Tweets using Wikipedia__
->_Keval Morabia, Neti Lalita Bhanu Murthy, Aruna Malapati and Surender Samant_
+* __Emotion Classification in a Resource Constrained Language Using Transformer-based Approach__
+>_Avishek Das, Omar Sharif, Mohammed Moshiul Hoque and Iqbal H. Sarker_
 
-* __Emotion impacts Speech Recognition Performance__
->_Rushab Munot and Ani Nenkova_
+* __Hie-BART: Document Summarization with Hierarchical BART__
+>_Kazuki Akiyama, Akihiro Tamura and Takashi Ninomiya_
 
-* __Opinion Mining with Deep Contextualized Embeddings__
+* __Sampling and Filtering of Neural Machine Translation Distillation Data__
+>_Vilém Zouhar_
+
+* __Towards Multi-Modal Text-Image Retrieval to improve Human Reading__
+>_Florian Schneider, Özge Alacam, Xintong Wang and Chris Biemann_
+
+* __IceSum: An Icelandic Text Summarization Corpus__
+>_Jón Daðason, Hrafn Loftsson, Salome Sigurðardóttir and Þorsteinn Björnsson_
+
+* __Negation typology and general representation models for cross-lingual zero-shot negation scope resolution in Russian, French, and Spanish__
+>_Anastassia Shaitarova and Fabio Rinaldi_
+
+* __Representations of Meaning in Neural Networks for NLP: a Thesis Proposal__
+>_Tomáš Musil_
+
+* __Towards Layered Events and Schema Representations in Long Documents__
+>_Hans Ole Hatzel and Chris Biemann_
+
+* __Parallel Text Alignment and Monolingual Parallel Corpus Creation from Philosophical Texts for Text Simplification__*
+>_Stefan Paun_
+
+* __Exploration and Discovery of the COVID-19 Literature through Semantic Visualization__
+>_Jingxuan Tu, Marc Verhagen, Brent Cochran and James Pustejovsky_
+
+* __A Character-and-Event-Based Framework for Detecting Literary Allusion in Internet Humor__
+>_Emily Shen_
+
+* __A Sliding-Window Approach to Automatic Creation of Meeting Minutes__
+>_Jia Jin Koay, Alexander Roustai, Xiaojin Dai and Fei Liu_
+
+* __Syntax-Based Attention Masking for Neural Machine Translation__
+>_Colin McDonald and David Chiang_
+
+* __Multi-Modal Image Captioning for the Visually Impaired__
+>_Hiba Ahsan, Daivat Bhatt, Kaivankumar Shah and Nikita Bhalla_
+
+* __Open-Domain Question Answering with Pre-Constructed Question Spaces__
+>_Jinfeng Xiao, Lidan Wang, Franck Dernoncourt, Trung Bui, Tong Sun and Jiawei Han_
+
+* __Shuffled-token Detection for Refining Pre-trained RoBERTa__
+>_Subhadarshi Panda, Anjali Agrawal, Jeewon Ha and Benjamin Bloch_
+
+* __Morphology-Aware Meta-Embeddings for Tamil__
+>_Arjun Sai Krishnan and Seyoon Ragavan_
+
+<!-- * __Opinion Mining with Deep Contextualized Embeddings__
 >_Wen-Bin Han and Noriko Kando_
 
 * __Defending Visual Question Answering models from Adversarial Attacks via induced attention invariance__ 
