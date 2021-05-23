@@ -6,7 +6,7 @@ order: 1
 ---
 
 ### Annoucement
-List of [Accepted Paper](https://naacl2021-srw.github.io/accepted) is live now.
+List of all the [Accepted Paper](https://naacl2021-srw.github.io/accepted) (archival/non archival) is live now.
 
 [Registration](https://2021.naacl.org/registration/) for the Virtual NAACL 2021 Conference is now open!
 Early registration deadline: Thursday, May 20, 2021, 11:59 PM (EDT). More details on [NAACL 2021](https://2021.naacl.org/).  
@@ -16,7 +16,7 @@ NAACL D&I and SRW team present [Getting into NLP research and grad school applic
 # Welcome to NAACL SRW 2021
 The NAACL Student Research Workshop (SRW) 2021 will be held in conjunction with [NAACL 2021](https://2021.naacl.org/) as a Virtual Workshop. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
-<!-- ### Please find the accepted archival papers [here.](https://www.aclweb.org/anthology/events/naacl-2019/#n19-3) -->
+### Please find the accepted archival papers [here.](https://aclanthology.org/volumes/2021.naacl-srw/)
 
 <!-- <img src="images/social_picture.jpeg" alt="Happy faces during the SRW Social in Minneapolis, Minnesota" width="60%"/> 
 <br>

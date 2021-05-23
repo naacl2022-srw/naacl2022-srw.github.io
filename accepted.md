@@ -29,7 +29,7 @@ order : 1
 * __Sampling and Filtering of Neural Machine Translation Distillation Data__
 >_Vilém Zouhar_
 
-* __Towards Multi-Modal Text-Image Retrieval to improve Human Reading__
+* __Towards Multi-Modal Text-Image Retrieval to improve Human Reading (non-archival)__
 >_Florian Schneider, Özge Alacam, Xintong Wang and Chris Biemann_
 
 * __IceSum: An Icelandic Text Summarization Corpus__
@@ -50,7 +50,7 @@ order : 1
 * __Exploration and Discovery of the COVID-19 Literature through Semantic Visualization__
 >_Jingxuan Tu, Marc Verhagen, Brent Cochran and James Pustejovsky_
 
-* __A Character-and-Event-Based Framework for Detecting Literary Allusion in Internet Humor__
+* __A Character-and-Event-Based Framework for Detecting Literary Allusion in Internet Humor (non archival)__
 >_Emily Shen_
 
 * __A Sliding-Window Approach to Automatic Creation of Meeting Minutes__
