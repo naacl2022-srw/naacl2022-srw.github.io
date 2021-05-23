@@ -7,9 +7,9 @@ order: 1
 
 ### Annoucment
 [Registration](https://2021.naacl.org/registration/) for the Virtual NAACL 2021 Conference is now open!
-Early registration deadline: Thursday, May 20, 2021, 11:59 PM (EDT). Check more details on [NAACL 2021](https://2021.naacl.org/)  
+Early registration deadline: Thursday, May 20, 2021, 11:59 PM (EDT). More details on [NAACL 2021](https://2021.naacl.org/)  
 
-NAACL D&I and SRW team present:[Getting into NLP research and grad school applications](https://2021.naacl.org/blog/grad-school-panel/)
+NAACL D&I and SRW team present [Getting into NLP research and grad school applications](https://2021.naacl.org/blog/grad-school-panel/), kindly join us in the event, thanks.
 
 # Welcome to NAACL SRW 2021
 The NAACL Student Research Workshop (SRW) 2021 will be held in conjunction with [NAACL 2021](https://2021.naacl.org/) in Mexico City, Mexico. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
