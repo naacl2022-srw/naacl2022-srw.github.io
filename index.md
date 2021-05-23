@@ -6,10 +6,10 @@ order: 1
 ---
 
 ### Annoucement
-List of [Accepted Paper](https://naacl2021-srw.github.io/accepted) is live now
+List of [Accepted Paper](https://naacl2021-srw.github.io/accepted) is live now.
 
 [Registration](https://2021.naacl.org/registration/) for the Virtual NAACL 2021 Conference is now open!
-Early registration deadline: Thursday, May 20, 2021, 11:59 PM (EDT). More details on [NAACL 2021](https://2021.naacl.org/)  
+Early registration deadline: Thursday, May 20, 2021, 11:59 PM (EDT). More details on [NAACL 2021](https://2021.naacl.org/).  
 
 NAACL D&I and SRW team present [Getting into NLP research and grad school applications](https://2021.naacl.org/blog/grad-school-panel/), kindly join us in the event, thanks.
 
