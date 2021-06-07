@@ -5,7 +5,9 @@ permalink: /
 order: 1
 ---
 
-### Annoucement
+## Annoucement
+Finally meet virtually everyone on Monday, June 7, 2021. See the updated [Workshop Schedule](https://2021.naacl.org/conference-program/srw/program.html)
+
 List of all the [Accepted Paper](https://naacl2021-srw.github.io/accepted) (archival/non archival) is live now.
 
 [Registration](https://2021.naacl.org/registration/) for the Virtual NAACL 2021 Conference is now open!
