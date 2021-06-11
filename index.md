@@ -6,6 +6,9 @@ order: 1
 ---
 
 ## Annoucement
+
+Thanks everyone, for closing remarks check [here](https://www.youtube.com/watch?v=tPg3EHjze3A), give us feedback [here](https://t.co/2F9TXmVLL7?amp=1)
+
 Finally meet everyone virtually on Monday, June 7, 2021. See the updated [Workshop Schedule](https://2021.naacl.org/conference-program/srw/program.html)
 
 List of all the [Accepted Paper](https://naacl2021-srw.github.io/accepted) (archival/non archival) is live now.
