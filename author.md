@@ -17,9 +17,9 @@ Authors may present preliminary versions of their work in other venues that are 
 
 ## Double submission
 
-Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NAACL-HLT SRW 2021. Authors of papers accepted for presentation at NAACL-HLT SRW 2021 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
+Papers that have been or will be submitted to other venues must indicate this at submission time, and must be withdrawn from the other venues if accepted to NAACL-HLT SRW 2022. Authors of papers accepted for presentation at NAACL-HLT SRW 2022 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented.
 
-Authors submitting more than one paper to NAACL-HLT 2021 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single NAACL-HLT 2021 track (Research, Industry, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
+Authors submitting more than one paper to NAACL-HLT 2022 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single NAACL-HLT 2022 track (Research, Industry, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
 
 ## Double blind review
 
@@ -64,24 +64,12 @@ During the submission process, authors will be asked to answer the questions fro
 
 ## Follow style and format guidelines
 
-Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. All papers consist of up to five (5) pages of content, plus unlimited references. References do not count against these limits. Supplementary materials are not allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer’s comments in their final versions.  
+Submissions should follow the NAACL-HLT 2022 style guidelines, which will be posted on the conference website. All papers consist of up to five (5) pages of content, plus unlimited references. References do not count against these limits. Supplementary materials are not allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer’s comments in their final versions.  
 
-We strongly recommend the use of the official NAACL-HLT 2021 style templates, available on the conference website. The paper templates are now available as an [Overleaf template](https://www.overleaf.com/latex/templates/naacl-hlt-2021-latex-template/kvjhhyjsvmxf) and can also be downloaded directly [LaTeX](https://2021.naacl.org/downloads/naacl2021-latex.zip) or [Word](https://2021.naacl.org/downloads/naacl2021.docx). All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review. Please follow the formatting documentation general to ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file). Notice the notable changes in the template (by Matt Post and David Chaing), details [here](https://2021.naacl.org/calls/style-and-formatting/).
+We strongly recommend the use of the official NAACL-HLT 2022 style templates, available on the conference website. The paper templates are now available as an [Overleaf template](https://www.overleaf.com/latex/templates/naacl-hlt-2021-latex-template/kvjhhyjsvmxf) and can also be downloaded directly ([LaTeX](https://2021.naacl.org/downloads/naacl2021-latex.zip) or [Word](https://2021.naacl.org/downloads/naacl2021.docx)). All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review. Please follow the formatting documentation general to ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file). Notice the notable changes in the template (by Matt Post and David Chaing), details [here](https://2021.naacl.org/calls/style-and-formatting/).
 
 
-<!-- 
 
-Submissions should follow the NAACL-HLT 2021 style guidelines. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official NAACL-HLT 2019 style templates:
-
-- [LaTeX](http://naacl2019.org/downloads/naaclhlt2019-latex.zip)
-- [Microsoft Word](http://naacl2019.org/downloads/naaclhlt2019-word.zip)
-- [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-naacl-hlt-2019-proceedings/xyyfwfkswhth) 
-
-__All submissions must be in PDF format.__
-
-<span style="color:red">Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.</span>
-
--->
 
 ## Paper Submission
 
