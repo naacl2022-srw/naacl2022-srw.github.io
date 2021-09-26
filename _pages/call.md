@@ -11,7 +11,7 @@ The Student Research Workshop (SRW) provides a venue for student researchers to 
 We invite papers in two different categories:
 - __Thesis Proposals__: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
 - __Research Papers__ : Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student.
-Topics of interest for the SRW are the same as NAACL main conference. See the list of topics [here](http://naacl2021.org/calls/papers/).
+Topics of interest for the SRW are the same as NAACL main conference. See the list of topics [here](http://naacl2022.org/calls/papers/).
 
 ## Benefits of participation
 
@@ -21,10 +21,11 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 - Each participant is also assigned a mentor - an experienced researcher - who can provide valuable advice on the submission during the pre-submission period and mentoring during the conference.
 
 ## Important Dates
-- Submission for mentoring deadline: January 11, 2019.
-- Papers submission deadline: February 15, 2019.
-- Acceptance notification deadline: March 1, 2019.
-- Camera-ready papers due: April 1, 2019.
+- Submission for mentoring deadline: December 17, 2021.
+- Papers submission deadline: March 11, 2022.
+- Acceptance notification: April 20, 2022.
+- Camera-ready papers due: May 6, 2022.
+
 
 
 __All deadlines are calculated at 11:59 pm (PST/GMT -8 hours)__

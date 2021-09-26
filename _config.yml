@@ -20,10 +20,10 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "NAACL Student Research Workshop (SRW) 2021"
+title                    : "NAACL Student Research Workshop (SRW) 2022"
 title_separator          : "-"
 name                     : "ACL"
-description              : "In conjunction with NAACL HLT 2021 in Mexico City, Mexico" 
+description              : "In conjunction with NAACL HLT 2022 in Seattle, Washington, USA" 
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -60,8 +60,8 @@ naver_site_verification  :
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: naacl2021-srw@googlegroups.com
-  facebook: naaclsrw2021
-  github: naacl2021-srw
+  email: naacl2022-srw@googlegroups.com
+  facebook: naaclsrw2022
+  github: naacl2022-srw
   twitter: naacl_srw
   
