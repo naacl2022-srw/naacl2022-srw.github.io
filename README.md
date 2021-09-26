@@ -1,2 +1,2 @@
-# naacl2021-srw.github.io
-NAACL SRW 2021 Website
+# naacl2022-srw.github.io
+NAACL SRW 2022 Website

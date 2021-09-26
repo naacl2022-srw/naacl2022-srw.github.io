@@ -14,7 +14,7 @@ __A:__ Yes.
 __A:__ We do not allow any supplemental appendices, and the paper should stand alone without requiring any appendices. However, we do allow supplemental code and data submissions. Submissions should be made through Softconf.
 
 #### Q: Where should I submit for pre-submission mentoring?
-__A:__ You may e-mail __naacl2021-srw@googlegroups.com__ with the follow information:
+__A:__ You may e-mail __naacl2022-srw@googlegroups.com__ with the follow information:
 
 * E-mail subject: Pre-submission mentorship paper
 * A copy of the paper (PDF format, anonymized)
@@ -24,7 +24,7 @@ __A:__ You may e-mail __naacl2021-srw@googlegroups.com__ with the follow informa
 
 #### Q: What are the restrictions on the number of pages for a paper submitted to the Student Research Workshop? 
 __A:__ See the NAACL-SRW author guidelines for page limits and submission information:
-[Author Guidelines](https://naacl2021-srw.github.io/author)
+[Author Guidelines](https://naacl2022-srw.github.io/author)
  
 #### Q: Double submission: where should it be mentioned that the paper will be submitted to other conference for reviewing?
 __A:__ Double submission to the NAACL SRW and the main NAACL conference / other NAACL workshops is prohibited.
