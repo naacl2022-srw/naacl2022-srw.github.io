@@ -16,11 +16,7 @@ __A:__ We do not allow any supplemental appendices, and the paper should stand a
 #### Q: Where should I submit for pre-submission mentoring?
 __A:__ You may e-mail __naacl2022-srw@googlegroups.com__ with the follow information:
 
-* E-mail subject: Pre-submission mentorship paper
-* A copy of the paper (PDF format, anonymized)
-* E-mail addresses of all authors (for correspondence)
-* Author keywords and the area of the research (see here for relevant topics and areas)
-* Any specific questions for mentors or expected types of feedback
+Please see the instructions under the [Mentoring page](https://naacl2022-srw.github.io/mentoring). 
 
 #### Q: What are the restrictions on the number of pages for a paper submitted to the Student Research Workshop? 
 __A:__ See the NAACL-SRW author guidelines for page limits and submission information:
@@ -35,13 +31,10 @@ __A:__ The NAACL organizing team will attempt to provide travel grants to author
 #### Q: If the student is graduating before the mentoring/submission deadline, can they still submit to SRW?
 __A:__ If the bulk of the work was done when the author was a student, it is acceptable to submit to SRW.
  
-##### Q: If an author is to submit to the SRW in the non-archival tract, is it possible to resubmit to the main track of this year's ACL?
+#### Q: If an author is to submit to the SRW in the non-archival tract, is it possible to resubmit to the main track of this year's ACL?
 __A:__ The spirit of the SRW is to give you feedback to improve your work. If you submit to the mentoring deadline, the mentoring will prove useful. Otherwise, two days isn't much time to incorporate feedback for an ACL submission, so this goes against the spirit of the rule but is technically allowed. 
 
-<!-- ### Q: When would it be possible to know the status of the grant to look into applying for a visa, other planning?
-__A:__ We encourage to apply for visa soon and not to wait for the decision of travel grant. Visa application processes can take a long time. So start soon. -->
+#### Q: What are the guidelines for the Camera-ready version?
+__A:__ Camera ready FAQs are available [here](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md).
 
-<!-- ### Q: What are the guidelines for the Camera-ready version?
-__A:__ Camera ready FAQs are available [here](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md). -->
-
-Please contact us if you have any questions.
+Please contact us at  [naacl2022-srw@googlegroups.com](mailto:naacl2022-srw@googlegroups.com) if you have any other questions.
