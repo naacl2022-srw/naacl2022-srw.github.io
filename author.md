@@ -8,10 +8,10 @@ order : 1
 
 
 # Author Guidelines
-The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. NAACL-HLT SRW 2021 will adhere to these policies and guidelines. Submissions should:
+The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. NAACL-HLT SRW 2022 will adhere to these policies and guidelines. Submissions should:
 
-- __Be relevant__: Submissions to NAACL-HLT SRW 2021 should be relevant to the audience.
-- __Be original__: The content of submissions to NAACL-HLT SRW 2021 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
+- __Be relevant__: Submissions to NAACL-HLT SRW 2022 should be relevant to the audience.
+- __Be original__: The content of submissions to NAACL-HLT SRW 2022 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
 
 Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Authors should list all such previous presentations in the submission form. This will help the area chairs if questions of originality arise.
 
@@ -31,7 +31,7 @@ Authors are referred to the [ACL author guidelines](https://www.aclweb.org/admin
 
 ## Accurately represent contributors
 
-The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to NAACL-HLT SRW 2021 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to NAACL-HLT SRW 2021 after the abstract submission deadline.
+The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to NAACL-HLT SRW 2022 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to NAACL-HLT SRW 2021 after the abstract submission deadline.
 
 ## Data management
 
@@ -51,7 +51,7 @@ Authors are referred to the [ACL author guidelines](https://www.aclweb.org/admin
 
 ## Optional Supplementary Materials: Appendices, Software and Data
 
-Papers should not refer, for further detail, to documents, code or data resources that are not available to the reviewers. NAACL-HLT SRW 2021 does encourage the submission of additional material that is relevant to the reviewers but not an integral part of the paper. There are two such types of material: appendices, which can be read, and non-readable supplementary materials, often data or code. Do not include this additional material in the same document as your main paper. Additional material must be submitted as one or more separate files, and must adhere to the same anonymity guidelines as the main paper. The paper must be self-contained: it is optional for reviewers to look at the supplementary material.
+Papers should not refer, for further detail, to documents, code or data resources that are not available to the reviewers. NAACL-HLT SRW 2022 does encourage the submission of additional material that is relevant to the reviewers but not an integral part of the paper. There are two such types of material: appendices, which can be read, and non-readable supplementary materials, often data or code. Do not include this additional material in the same document as your main paper. Additional material must be submitted as one or more separate files, and must adhere to the same anonymity guidelines as the main paper. The paper must be self-contained: it is optional for reviewers to look at the supplementary material.
 
 ## Ethics Policy
 

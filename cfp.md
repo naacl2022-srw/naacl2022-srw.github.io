@@ -19,7 +19,7 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 
 - All accepted papers will be presented in the main conference poster session, giving students an opportunity to interact with and present their work to a large and diverse audience, including top researchers in the field.
 - All accepted thesis proposals will be presented during a session at the main conference, giving students an opportunity to receive feedback from assigned mentors and other researchers.
-- Submissions (in both categories) may either be archival or non-archival, based on the wishes of the authors. All archival papers will be published in the NAACL 2021 SRW Proceedings. All non-archival papers may be submitted to any venue in the future __except__ another SRW.
+- Submissions (in both categories) may either be archival or non-archival, based on the wishes of the authors. All archival papers will be published in the NAACL 2022 SRW Proceedings. All non-archival papers may be submitted to any venue in the future __except__ another SRW.
 - Each participant is also assigned a mentor - an experienced researcher - who can provide valuable advice on the submission during the pre-submission period and mentoring during the conference.
 
 ## Important Dates
