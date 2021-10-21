@@ -14,7 +14,7 @@ Students wishing to participate must submit the paper by __December 17, 2021__ v
 - E-mail subject: Pre-submission mentorship paper
 - A copy of the paper (PDF format, anonymized, following the NAACL template)
 - E-mail addresses of all authors (for correspondence)
-- Author keywords and the area of the research (see [here](https://2021.naacl.org/calls/papers/) for relevant topics and areas)
+- A list of keywords describing the area of the research (see [here](https://2021.naacl.org/calls/papers/) for relevant topics and areas). These will be used to assign appropriate mentors.
 - Any specific questions for mentors or expected types of feedback
 
 Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check the formatting of each paper before we match mentors.
