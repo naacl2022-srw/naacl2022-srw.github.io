@@ -9,7 +9,7 @@ order : 1
 ## Pre-submission Mentorship Program
 The SRW offers students the opportunity to get advance feedback before submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student’s work, not to critique it. Participation is optional but encouraged. Pre-submission mentorship is not anonymous.
 
-Students wishing to participate must submit the paper by __December 17, 2021__ via e-mail to [naacl2022-srw@googlegroups.com](mailto:naacl2022-srw@googlegroups.com). Your email should include the following:
+Students wishing to participate must submit the paper by __Feb 11 2022__ via e-mail to [naacl2022-srw@googlegroups.com](mailto:naacl2022-srw@googlegroups.com). Your email should include the following:
 
 - E-mail subject: Pre-submission mentorship paper
 - A copy of the paper (PDF format, anonymized, following the NAACL template)
