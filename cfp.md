@@ -24,6 +24,7 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 
 ## Important Dates
 - Submission for mentoring deadline: Feb 1, 2022.
+- Mentorship feedback: Mar 8, 2022.
 - Papers submission deadline: Mar 25, 2022.
 - Reviews due: Apr 29, 2022.
 - Acceptance notification: May 8, 2022.
