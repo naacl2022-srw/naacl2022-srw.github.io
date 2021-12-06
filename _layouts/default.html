@@ -8,7 +8,7 @@
 
     {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %}
     {% capture presubmen %}{{'Feb 1 2022' | date: '%s'}}{% endcapture %}
-    {% capture presubfeed %}{{'Feb 1 2022' | date: '%s'}}{% endcapture %}
+    {% capture presubfeed %}{{'March 8 2022' | date: '%s'}}{% endcapture %}
     {% capture sub %}{{'Mar 25 2022' | date: '%s'}}{% endcapture %}
     {% capture revdue %}{{'Apr 29 2022' | date: '%s'}}{% endcapture %}
     {% capture not %}{{'May 8 2022' | date: '%s'}}{% endcapture %}
@@ -28,7 +28,7 @@
                 {{ presubmen | date: "%b %-d (%a), %Y" }}</font>
               </td>
             </tr>
-            <tr><td>Reviews due</td>
+            <tr><td>Pre-submission mentorship feedback</td>
               <td>
 
                 {% if presubfeed < nowdate %} <strike> <font color="grey">{% endif %}
