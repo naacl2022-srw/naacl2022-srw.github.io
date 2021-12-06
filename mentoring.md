@@ -14,7 +14,7 @@ Students wishing to participate must submit the paper by __Feb 1 2022__ via e-ma
 
 Note that pre-submission mentorship is not anonymous. However, you should still submit your paper in an anonymized format. We will check the formatting of each paper before we match mentors.
 
-Participants will receive a mentor who will review and provide feedback to the student within four weeks. This mentor will not be the same person who will review the final submission.
+Participants will be matched with a mentor who will review and provide feedback to the student. This mentor will not be the same person who will review the final submission.
 The feedback will be in the format of guidance and suggestions to improve the overall writing and communication of the paper; students are not required to make the changes suggested by the pre-submission mentor.
 
 <button class="btn btn-success" onclick="window.location.href='https://forms.gle/kS3ErsCKpJbqnjm77';">
