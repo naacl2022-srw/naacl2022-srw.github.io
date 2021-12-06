@@ -23,11 +23,11 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 - Each participant is also assigned a mentor - an experienced researcher - who can provide valuable advice on the submission during the pre-submission period and mentoring during the conference.
 
 ## Important Dates
-- Submission for mentoring deadline: December 17, 2021.
-- Papers submission deadline: March 11, 2022.
-- Reviews due: April 15, 2022.
-- Acceptance notification: April 20, 2022.
-- Camera-ready papers due: May 6, 2022.
+- Submission for mentoring deadline: Feb 1, 2022.
+- Papers submission deadline: Mar 25, 2022.
+- Reviews due: Apr 29, 2022.
+- Acceptance notification: May 8, 2022.
+- Camera-ready papers due: May 20, 2022.
 
 
 __All deadlines are calculated at 11:59 pm (UTC-12 hours)__
