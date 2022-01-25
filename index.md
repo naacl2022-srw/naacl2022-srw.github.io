@@ -15,7 +15,7 @@ The NAACL Student Research Workshop (SRW) 2022 will be held in conjunction with 
 <br>
 _**Happy faces during the SRW Social in Minneapolis, Minnesota**_ -->
 
-Contact us via email at [naacl2022-srw@googlegroups.com](mailto:naacl2021-srw@googlegroups.com) for any questions.
+Contact us via email at [naacl2022-srw@googlegroups.com](mailto:naacl2022-srw@googlegroups.com) for any questions.
 Get connected with us on [Twitter](https://twitter.com/naacl_srw).
 
 <!-- We will update this site when latest information are available. -->
