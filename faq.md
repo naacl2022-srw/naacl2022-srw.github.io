@@ -11,7 +11,7 @@ __A:__ Yes.
 __A:__ Yes.
 
 #### Q: Can I submit supplemental materials?
-__A:__ We do not allow any supplemental appendices, and the paper should stand alone without requiring any appendices. However, we do allow supplemental code and data submissions. Submissions should be made through Softconf.
+__A:__ **Answer updated for 2022.** Supplementaty materials are permitted, but your paper should stand alone without requiring reading of them. Supplemental code and data should be submitted on OpenReview. Appendices should be appended starting on a new page after the References section in your main paper PDF.
 
 #### Q: Where should I submit for pre-submission mentoring?
 __A:__ You may e-mail __naacl2022-srw@googlegroups.com__ with the follow information:
