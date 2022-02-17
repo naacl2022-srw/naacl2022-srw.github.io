@@ -51,7 +51,7 @@ Authors are referred to the [ACL author guidelines](https://www.aclweb.org/admin
 
 ## Optional Supplementary Materials: Appendices, Software and Data
 
-Papers should not refer, for further detail, to documents, code or data resources that are not available to the reviewers. NAACL-HLT SRW 2022 does encourage the submission of additional material that is relevant to the reviewers but not an integral part of the paper. There are two such types of material: appendices, which can be read, and non-readable supplementary materials, often data or code. Do not include this additional material in the same document as your main paper. Additional material must be submitted as one or more separate files, and must adhere to the same anonymity guidelines as the main paper. The paper must be self-contained: it is optional for reviewers to look at the supplementary material.
+Papers should not refer, for further detail, to documents, code or data resources that are not available to the reviewers. NAACL-HLT SRW 2022 does encourage the submission of additional material that is relevant to the reviewers but not an integral part of the paper. There are two such types of material: appendices, which can be read, and non-readable supplementary materials, often data or code. Data and code should be submitted via the additional upload links on OpenReview. Appendices should be placed after your References section, starting on a new page, within the same document as your main paper. Additional material must adhere to the same anonymity guidelines as the main paper. Finally, your paper must be self-contained: it is optional for reviewers to look at the supplementary material.
 
 ## Ethics Policy
 
@@ -67,9 +67,6 @@ During the submission process, authors will be asked to answer the questions fro
 Submissions should follow the NAACL-HLT 2022 style guidelines, which will be posted on the conference website. All papers consist of up to five (5) pages of content, plus unlimited references. References do not count against these limits. Supplementary materials are not allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer’s comments in their final versions.  
 
 We strongly recommend the use of the official ARR style templates. The paper templates are available as an [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr) and can also be downloaded directly ([LaTeX and Word](https://github.com/acl-org/ACLPUB/tree/master/templates). All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review. Please follow the formatting documentation general to ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file).
-
-
-
 
 ## Paper Submission
 
