@@ -33,5 +33,4 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 
 __All deadlines are calculated at 11:59 pm (UTC-12 hours)__
 
-### Information related to submission could be found in [Author Guidelines](/author)
-
+## Please check the [Author Guidelines](/author) for additional submission instructions.
