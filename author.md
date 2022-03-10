@@ -70,5 +70,5 @@ We strongly recommend the use of the official ARR style templates. The paper tem
 
 ## Paper Submission
 
-Submission is electronic, using the OpenReview conference management. The submission site will be available at [OpenReview](https://openreview.net/forum?id=fbzNB3S6ob).
+Submission is electronic, using the OpenReview conference management. The submission site will be available at [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F)).
 
