@@ -15,6 +15,8 @@ We invite papers in two different categories:
 - __Research Papers__ : Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current student.
 Topics of interest for the SRW are the same as NAACL main conference. See the list of topics [here](https://2021.naacl.org/calls/papers/).
 
+Submission link is available at [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F)).
+
 ## Benefits of participation
 
 - All accepted papers will be presented in the main conference poster session, giving students an opportunity to interact with and present their work to a large and diverse audience, including top researchers in the field.
