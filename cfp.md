@@ -15,7 +15,11 @@ We invite papers in two different categories:
 - __Research Papers__ : Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current student.
 Topics of interest for the SRW are the same as NAACL main conference. See the list of topics [here](https://2021.naacl.org/calls/papers/).
 
-Submission link is available at [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F)).
+## How to submit
+
+Papers should be submitted on [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Student_Research&referrer=%5BHomepage%5D(%2F)) by Mar 25, 2022. 
+
+Submissions should be no more than **five** pages not including references. Make sure to read through the [Author Guidelines](https://naacl2022-srw.github.io/author) for detailed submission instructions. Not following the author guidelines may result in your paper being desk-rejected.
 
 ## Benefits of participation
 
@@ -25,7 +29,7 @@ Submission link is available at [OpenReview](https://openreview.net/group?id=acl
 - Each participant is also assigned a mentor - an experienced researcher - who can provide valuable advice on the submission during the pre-submission period and mentoring during the conference.
 
 ## Important Dates
-- Submission for mentoring deadline: Feb 1, 2022.
+- Submission for mentoring deadline (optional): Feb 1, 2022.
 - Mentorship feedback: Mar 8, 2022.
 - Papers submission deadline: Mar 25, 2022.
 - Reviews due: Apr 29, 2022.
