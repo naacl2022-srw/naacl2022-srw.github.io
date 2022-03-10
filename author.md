@@ -64,7 +64,7 @@ During the submission process, authors will be asked to answer the questions fro
 
 ## Follow style and format guidelines
 
-Submissions should follow the NAACL-HLT 2022 style guidelines, which will be posted on the conference website. All papers consist of up to five (5) pages of content, plus unlimited references. References do not count against these limits. Supplementary materials are not allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer’s comments in their final versions.  
+Submissions should follow the NAACL-HLT 2022 style guidelines, which will be posted on the conference website. All papers consist of up to five (5) pages of content, plus unlimited references. References and supplementary materials do not count against these limits. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer’s comments in their final versions.  
 
 We strongly recommend the use of the official ARR style templates. The paper templates are available as an [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr) and can also be downloaded directly ([LaTeX and Word](https://github.com/acl-org/ACLPUB/tree/master/templates). All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review. Please follow the formatting documentation general to ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file).
 
