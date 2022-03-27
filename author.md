@@ -57,11 +57,6 @@ Papers should not refer, for further detail, to documents, code or data resource
 
 Authors are required to honour the ethical code set out in the ACM Code of Ethics. The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work
 
-## Reproducibility Criteria
-
-During the submission process, authors will be asked to answer the questions from the Reproducibility Checklist. The checklist is intended as a reminder to help the authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. However, the answers will be made available to the reviewers. Reviewers will be asked to assess the reproducibility of the work as part of their reviews. The updated checklist will be made available on the conference website, see previous versions in [Dodge et al, 2019](https://arxiv.org/pdf/1909.03004.pdf) and [Joelle Pineau’s reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
-
-
 ## Follow style and format guidelines
 
 Submissions should follow the NAACL-HLT 2022 style guidelines, which will be posted on the conference website. All papers consist of up to five (5) pages of content, plus unlimited references. References and supplementary materials do not count against these limits. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer’s comments in their final versions.  
