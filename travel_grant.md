@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Travel and Grants"
+title: "Grants"
 permalink: /travel_grant
 order : 1
 ---
