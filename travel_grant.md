@@ -4,7 +4,7 @@ title: "Travel and Grants"
 permalink: /travel_grant
 order : 1
 ---
-# Travel and Grants
+# Grants for Travel and Conference Registration
 For students who are authors of papers accepted to the NAACL SRW, please fill out the form [here](https://forms.gle/uEHKFYZSEqHJYbqNA) to request a grant to offset some portion of your conference registration, travel, and accommodation expenses. **The deadline for applying for an SRW grant is June 1.** 
 We will be prioritizing funding students who have accepted papers, are attending their first conference, and demonstrate financial need.
 
