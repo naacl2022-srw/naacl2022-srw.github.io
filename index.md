@@ -7,8 +7,6 @@ order: 1
 
 
 <!-- button class="btn btn-success" onclick="window.location.href='/mentoring';">Submit your paper draft to our mentorshop program by Feb 1!</button -->
-<button class="btn btn-success" onclick="window.location.href='/travel_grant';">SRW Atendees: Apply for a travel grant by June 1!</button>
-
 
 # Welcome to NAACL SRW 2022
 The NAACL Student Research Workshop (SRW) 2022 will be held in conjunction with [NAACL 2022](https://2022.naacl.org/) as a hybrid in-person/virtual workshop. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
