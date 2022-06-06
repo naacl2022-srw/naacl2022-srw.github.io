@@ -10,8 +10,7 @@ order : 1
 # Archival
 
 
-***Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention***
-
+***Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention***\
 Ayush K Chakravarthy, Jacob Labe Russin, Randall O'Reilly
 
 <br/>
