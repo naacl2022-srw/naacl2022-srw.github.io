@@ -4,6 +4,13 @@ title: "Frequently Asked Questions"
 permalink: /faq
 order : 1
 ---
+#### Q: I am attending NAACL SRW 2022 in-person. What will the presentation format be?
+__A:__ Everyone attending in-person should prepare a physical poster. These will be presented on Day 2 of the conference. Students who submitted thesis proposals will be given the opportunity to do a 15-minute oral presenations, also on Day 2.
+
+#### Q: What size should my in-person poster be, and how do I get it printed?
+
+__A:__ Your poster should have maximum dimensions of 4’ width x 8’ height. Your university ought to have resources to print posters (check the library). If not, you should be able to pay to print it on site at the FedEx Office in the conference center.
+
 #### Q: Can I submit my non-archival accepted paper in other venues?
 __A:__ Yes.
 
