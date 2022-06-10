@@ -15,7 +15,39 @@ order : 1
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University, USA
 - [Nianwen Xue](https://www.cs.brandeis.edu/~xuen/), Brandeis University, USA
 
-<!-- ### Pre-submission Mentors -->
+### Mentors
+- Aline Villavicencio, University of Sheffield
+- Amanda Stent, Colby College
+- Arkaitz Zubiaga, Queen Mary University of London
+- Barbara Plank, IT University of Copenhagen
+- Catherine Finegan-Dollak, IBM Research
+- Dallas Card, Stanford
+- Dan Goldwasser, Purdue University
+- Eduardo Blanco, Arizona State University
+- Eunsol Choi, The University of Texas at Austin
+- Greg Durrett, The University of Texas at Austin
+- I-Ta Lee, Facebook
+- Julia Kiseleva, Microsoft Research
+- Kai-Wei Chang, University of California, Los Angeles
+- Kristen Johnson, Michigan State University
+- Lucia Donatelli, Saarland University
+- Maria Jung Barrett, IT University of Copenhagen
+- Masoud Rouhizadeh, University of Florida
+- Melissa Roemmele, RWS Language Weaver
+- Mohit Bansal, University of North Carolina
+- Rob Van Der Goot, IT University of Copenhagen
+- Robin Jia, University of Souhern California
+- Roy Schwartz, The Hebrew University of Jerusalem
+- Sebastian Ruder, Google
+- Shubhanshu Mishra, Twitter
+- Sujay Jauhar, Microsoft Research
+- Swabha Swayamdipta, Allen Institute for Artificial Intelligence
+- Valerio Basile, University of Turin
+- Vered Shwartz, University of British Columbia
+- Vincent Ng, University of Texas at Dallas
+- Xiao Zhang, Amazon
+- Yansong Feng, Peking University
+
 
 ### Program Committee
 - Abeer Aldayel, King Saud University
