@@ -16,38 +16,27 @@ order : 1
 - [Nianwen Xue](https://www.cs.brandeis.edu/~xuen/), Brandeis University, USA
 
 ### Mentors for Student Participants
-- Aline Villavicencio, University of Sheffield
-- Amanda Stent, Colby College
+- Archita Pathak, Amazon
 - Arkaitz Zubiaga, Queen Mary University of London
-- Barbara Plank, IT University of Copenhagen
-- Catherine Finegan-Dollak, IBM Research
-- Dallas Card, Stanford
+- Atul Kumar, Ojha	National University of Ireland, Galway 
 - Dan Goldwasser, Purdue University
 - Eduardo Blanco, Arizona State University
-- Eunsol Choi, The University of Texas at Austin
-- Greg Durrett, The University of Texas at Austin
-- I-Ta Lee, Facebook
-- Julia Kiseleva, Microsoft Research
-- Kai-Wei Chang, University of California, Los Angeles
+- Greg Durrett, University of Texas at Austin
+- Hao Tan, Adobe
+- Kasturi Bhattacharjee, AWS AI
 - Kristen Johnson, Michigan State University
-- Lucia Donatelli, Saarland University
-- Maria Jung Barrett, IT University of Copenhagen
-- Masoud Rouhizadeh, University of Florida
+- Mascha Kurpicz, Briki	Applied Machine Intelligence, Bern University of Applied Sciences, Switzerland
 - Melissa Roemmele, RWS Language Weaver
-- Mohit Bansal, University of North Carolina
-- Rob Van Der Goot, IT University of Copenhagen
-- Robin Jia, University of Souhern California
-- Roy Schwartz, The Hebrew University of Jerusalem
-- Sebastian Ruder, Google
-- Shubhanshu Mishra, Twitter
-- Sujay Jauhar, Microsoft Research
-- Swabha Swayamdipta, Allen Institute for Artificial Intelligence
+- Mihir Kale, Google
+- Muhao Chen, University of Southern California
+- Nedjma Ousidhoum, The University of Cambridge
+- Rajaswa Patil, TCS Research
+- Shomir Wilson, Pennsylvania State University
+- Sunipa Dev, University of California, Los Angelos
 - Valerio Basile, University of Turin
-- Vered Shwartz, University of British Columbia
 - Vincent Ng, University of Texas at Dallas
-- Xiao Zhang, Amazon
-- Yansong Feng, Peking University
-
+- Vivek Srivastava, TCS Research, India
+- Yonatan Bisk, Carnegie Mellon University
 
 ### Program Committee
 - Abeer Aldayel, King Saud University
