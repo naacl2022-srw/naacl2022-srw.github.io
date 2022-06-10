@@ -15,7 +15,7 @@ order : 1
 - [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University, USA
 - [Nianwen Xue](https://www.cs.brandeis.edu/~xuen/), Brandeis University, USA
 
-### Mentors
+### Mentors for Student Participants
 - Aline Villavicencio, University of Sheffield
 - Amanda Stent, Colby College
 - Arkaitz Zubiaga, Queen Mary University of London
