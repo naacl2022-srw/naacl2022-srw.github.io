@@ -9,10 +9,6 @@ order : 1
 
 # Archival
 
-
-***[1] Heterogeneous-Graph Reasoning and Fine-Grained Aggregation for Fact Checking***\
-Hongbin Lin
-
 ***[13] Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention***\
 Ayush K Chakravarthy, Jacob Labe Russin, Randall O'Reilly
 
